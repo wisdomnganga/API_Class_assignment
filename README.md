@@ -1,4 +1,4 @@
-# Repository for BBIT 3101
+# Repository for BBIT 3101 Exercises
 
 ![Banner](resources/images/banner.jpg)
 
