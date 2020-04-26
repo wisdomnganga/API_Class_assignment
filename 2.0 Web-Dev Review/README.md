@@ -1,3 +1,5 @@
+# Git practice 🙌
+
 <img src='../resources/images/practise.gif' alt="recap">
 
 ## Aim 🏹
